@@ -8,6 +8,8 @@
 </head>
 <body>
 
+	<h1>Dojo Survey</h1>
+
 	<form method='POST' action='/submit'>
 		<label>Your Name:</label>
 		<input type='text' name='name'><br><br>
